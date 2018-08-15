@@ -1,2 +1,2 @@
 # MemoryGame
-Juego memorama en Java para Android
+Sample memory game for Android using Java.
